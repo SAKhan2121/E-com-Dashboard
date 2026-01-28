@@ -58,8 +58,8 @@ It enables analysis across **time, geography, customers, categories, sub-categor
 ## 📁 Files Included
 
 - `E-Com_Sales_Dashboard.pbix` 
-- `Dashboard_Screenshot.png` – Preview image of the dashboard  
-- `README.md` – Project documentation  
+- `Dashboard_Screenshot.png`
+- `README.md`
 
 ---
 
