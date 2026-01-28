@@ -83,13 +83,5 @@ It enables analysis across **time, geography, customers, categories, sub-categor
 
 ---
 
-## 👤 Author
 
-**Suhail Ahmed Khan**  
-Aspiring Data Analyst | Power BI & Data Visualization Enthusiast
 
----
-
-## ⚠️ Disclaimer
-
-This dashboard is created for **learning and portfolio purposes** using sample or practice data.
