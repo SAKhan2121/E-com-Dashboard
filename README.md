@@ -57,7 +57,10 @@ It enables analysis across **time, geography, customers, categories, sub-categor
 
 ## 📁 Files Included
 
-- `E-Com_Sales_Dashboard.pbix` https://github.com/SAKhan2121/E-com-Dashboard/commit/7cb2583d708eb8abe82a0b2f715cb5e5e0b969ed
+- `E-Com_Sales_Dashboard.pbix`
+  ## 📊 Power BI Dashboard File
+[Download E-Commerce Sales Dashboard (.pbix)](2nd%20project.pbix)
+
 - `Dashboard_Screenshot.png`
 - `README.md`
 
