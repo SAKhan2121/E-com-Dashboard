@@ -62,7 +62,7 @@ It enables analysis across **time, geography, customers, categories, sub-categor
 [Download E-Commerce Sales Dashboard (.pbix)](2nd%20project.pbix)
 
 - `Dashboard_Screenshot.png`
-<img width="1138" height="650" alt="Screenshot 2026-01-28 231053" src="https://github.com/user-attachments/assets/1a170dfa-7388-43b4-8b7d-c86f9af754a0" />
+![Dashboard Screenshot](Screenshot%202026-01-28%20231053.png)
 
 
 ---
