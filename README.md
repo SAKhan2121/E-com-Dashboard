@@ -78,14 +78,7 @@ It enables analysis across **time, geography, customers, categories, sub-categor
 
 ---
 
-## 🔧 Future Enhancements
 
-- Add year-wise comparison
-- Include profit margin analysis
-- Add customer segmentation
-- Connect to live data sources
-
----
 
 
 
